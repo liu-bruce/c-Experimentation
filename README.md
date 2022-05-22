@@ -1,10 +1,10 @@
 # cpp-Experimentation
 
-enviroment 
+enviroment
+  * linux mint
   * powershell 
     * g++ compile 
     * atom text editor
   
-target objectives 
-
-multifile 
+* target objectives 
+    * multifile 
