@@ -2,7 +2,7 @@
 
 enviroment
   * linux mint
-  * powershell 
+    * powershell 
     * g++ compile 
     * atom text editor
   
